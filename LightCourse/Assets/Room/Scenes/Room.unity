@@ -97,8 +97,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: f65ce565f9561c8418a1fc2a818871dc, type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 41c16e6c4ed2b58468556b35e3c36c26, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -902,6 +902,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ae391d5c1a0c36c4691f01b94fb8cab5, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ae391d5c1a0c36c4691f01b94fb8cab5, type: 3}
       propertyPath: m_Name
       value: beer taps (1)
@@ -1125,6 +1129,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: db57e340af1eb1e448a2f065a599e348, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: db57e340af1eb1e448a2f065a599e348, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: db57e340af1eb1e448a2f065a599e348, type: 3}
       propertyPath: m_Name
@@ -2633,6 +2641,10 @@ PrefabInstance:
       value: -180
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 972168f3fee49b84296d3cc2523a2fde, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 972168f3fee49b84296d3cc2523a2fde, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: cb1e82f4ed6469c4688f4e6d04aa62bc, type: 2}
@@ -3828,6 +3840,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 015b22716779c144580275d85b9a0616, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 015b22716779c144580275d85b9a0616, type: 3}
       propertyPath: m_Name
       value: Table Lamp Low Poly
@@ -3930,6 +3946,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0addcabcce88bef4c94fa0d3e94e2e42, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0addcabcce88bef4c94fa0d3e94e2e42, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0addcabcce88bef4c94fa0d3e94e2e42, type: 3}
       propertyPath: m_Name
@@ -4685,7 +4705,7 @@ MeshRenderer:
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
+  m_ScaleInLightmap: 0.5
   m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
@@ -4783,6 +4803,10 @@ PrefabInstance:
     - target: {fileID: -7146521406498821007, guid: d069b37214ea292479960d045696cdd7, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: d069b37214ea292479960d045696cdd7, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -1599826595754709761, guid: d069b37214ea292479960d045696cdd7, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5756,6 +5780,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 1099233201923212423, guid: c67abf3b9ddea7d4eba6f42a6dd4a7fb, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3023903839907832822, guid: c67abf3b9ddea7d4eba6f42a6dd4a7fb, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -6671,8 +6699,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.5764706, b: 0.16078432, a: 1}
-  m_Intensity: 1
-  m_Range: 6
+  m_Intensity: 1.2
+  m_Range: 12
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -6710,7 +6738,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 0
@@ -7881,6 +7909,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 015b22716779c144580275d85b9a0616, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 015b22716779c144580275d85b9a0616, type: 3}
       propertyPath: m_Name
       value: Table Lamp Low Poly (1)
@@ -7962,6 +7994,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ae391d5c1a0c36c4691f01b94fb8cab5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ae391d5c1a0c36c4691f01b94fb8cab5, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ae391d5c1a0c36c4691f01b94fb8cab5, type: 3}
       propertyPath: m_Name
@@ -8573,6 +8609,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -270
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8133b7d85d2b5b2479462ed6f516bd8c, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8133b7d85d2b5b2479462ed6f516bd8c, type: 3}
       propertyPath: m_Name
       value: EndWall (1)
@@ -8687,6 +8727,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: -4539831304671433707, guid: da0499a405a0cf24fa50836536555d99, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -4527317333428022957, guid: da0499a405a0cf24fa50836536555d99, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -8702,6 +8746,10 @@ PrefabInstance:
     - target: {fileID: -729362457959957799, guid: da0499a405a0cf24fa50836536555d99, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -611590414918275569, guid: da0499a405a0cf24fa50836536555d99, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 467432941546810960, guid: da0499a405a0cf24fa50836536555d99, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8722,6 +8770,10 @@ PrefabInstance:
     - target: {fileID: 4504634356902812009, guid: da0499a405a0cf24fa50836536555d99, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966388308854859889, guid: da0499a405a0cf24fa50836536555d99, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6152973632113960402, guid: da0499a405a0cf24fa50836536555d99, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8758,6 +8810,14 @@ PrefabInstance:
     - target: {fileID: 7032395316585747862, guid: da0499a405a0cf24fa50836536555d99, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.822
+      objectReference: {fileID: 0}
+    - target: {fileID: 8347073516061058674, guid: da0499a405a0cf24fa50836536555d99, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8384527292714490271, guid: da0499a405a0cf24fa50836536555d99, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8920,6 +8980,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 972168f3fee49b84296d3cc2523a2fde, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 972168f3fee49b84296d3cc2523a2fde, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: cb1e82f4ed6469c4688f4e6d04aa62bc, type: 2}
@@ -9032,6 +9096,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: db57e340af1eb1e448a2f065a599e348, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: db57e340af1eb1e448a2f065a599e348, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: db57e340af1eb1e448a2f065a599e348, type: 3}
       propertyPath: m_Name
@@ -9643,6 +9711,10 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8133b7d85d2b5b2479462ed6f516bd8c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8133b7d85d2b5b2479462ed6f516bd8c, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8133b7d85d2b5b2479462ed6f516bd8c, type: 3}
       propertyPath: m_Name
@@ -10898,7 +10970,7 @@ MeshRenderer:
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
+  m_ScaleInLightmap: 0.5
   m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
