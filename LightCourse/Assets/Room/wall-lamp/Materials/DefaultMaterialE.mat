@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Chocolate_Window
+  m_Name: DefaultMaterialE
   m_Shader: {fileID: 47, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -28,7 +28,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: e8d186307b2ccb849b888d65747fb66a, type: 3}
+        m_Texture: {fileID: 2800000, guid: be4bed5199f73f54e820329b9cfdc6cd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -44,19 +44,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: 248e50a0414cb3d408e75bff37461cd8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06ddac527617750468e058408d7623f0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 37d77096902bf1e4b8694f447bcdbd6e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 95811f1889493e440b7e4bc0f3cdb044, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 26d0d3327c4137f4a817fc2fca6002b8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 673aeec3767dad8449cf0927807d4865, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 414a1d46ce1f1274281462ae356ac882, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
@@ -64,7 +64,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
-        m_Texture: {fileID: 2800000, guid: 0998b7db7c996914fb1ef6dad98d906f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7d55db1cd1b98794fa4336024dd67545, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
@@ -86,6 +86,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.588235, g: 0.588235, b: 0.588235, a: 1}
-    - _EmissionColor: {r: 11.144223, g: 11.144223, b: 11.144223, a: 1}
+    - _Color: {r: 0.6, g: 0.6, b: 0.6, a: 1}
+    - _EmissionColor: {r: 83.34148, g: 70.25119, b: 55.85188, a: 1}
   m_BuildTextureStacks: []
