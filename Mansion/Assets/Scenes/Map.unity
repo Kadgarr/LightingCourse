@@ -97,8 +97,10 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 90180618c9efb5148b0ede484305ffaf,
+    type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 8ab47cfd7a7eb7f48a072cb876e575af,
+    type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -201,10 +203,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -4.39
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -317,10 +329,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -1.24
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -672,10 +694,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -12.801
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -776,10 +808,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.206
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -908,12 +950,12 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
+  m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
@@ -1091,10 +1133,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -24.256
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1183,10 +1235,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.358
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1421,10 +1483,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.9
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1553,10 +1625,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 12.025
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1647,10 +1729,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -4.041
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1741,10 +1833,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -2.37
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1878,10 +1980,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -9.113
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2124,10 +2236,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 3.748
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2329,10 +2451,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 13.973
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2528,10 +2660,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.9
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2620,10 +2762,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 1.781
       objectReference: {fileID: 0}
+    - target: {fileID: -7490283881734600436, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 144631312793452356, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
         type: 3}
       propertyPath: m_Name
       value: Grave_low (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219256062554885154, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8398652746322378723, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2785,10 +2952,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 6.08
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3017,7 +3194,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &484251237
 Transform:
@@ -3081,6 +3258,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -9182291058777899444, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -9041267756353341082, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -8856916482769721425, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 30b1c07b55bd6eb4a920b68945c071d4,
         type: 3}
       propertyPath: m_RootOrder
@@ -3136,20 +3328,270 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8551654070373378105, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -8455728280606582528, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -7515429101286732190, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -7422151822734960208, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -7271449666460269675, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -7146521406498821007, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -6792889981931915972, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -6763858364670572316, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -6733177361254619370, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -6026004772984408981, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -5754732837579649886, guid: 30b1c07b55bd6eb4a920b68945c071d4,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 0e30cf2c97be5c546ab3494b7252bd88, type: 2}
+    - target: {fileID: -5754060345647867467, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4906838889796845047, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4133703932355585839, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4058879426038799192, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -3912471656477316822, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -3778644264426962316, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -3540495426589365078, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -3410185793394415013, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -2874765826992384646, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -2764512629625626004, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -2519092360280523269, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -2181743766629440291, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -2045257923548263128, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -2040254050740271484, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -1891630423312683343, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -1599826595754709761, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -1558721567721526513, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -652209905907201759, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -516098083770646512, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 281855664364225751, guid: 30b1c07b55bd6eb4a920b68945c071d4,
         type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 281855664364225751, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 30b1c07b55bd6eb4a920b68945c071d4,
         type: 3}
       propertyPath: m_Name
       value: Gothic Mansion
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1835210009659533079, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2000704097295303873, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3455292422214010178, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3559817854460706613, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4058780909319966291, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4103881766339141800, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4356877828898064976, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4504409719310791647, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194334309628646677, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5252682845850649624, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6248574976466802116, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7975042476016782316, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8009987137999418058, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8436874989246240649, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8513859187771203891, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8578709097331664583, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 9017328541939089309, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141816029861474070, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 9158743094094176133, guid: 30b1c07b55bd6eb4a920b68945c071d4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3229,7 +3671,7 @@ Terrain:
   m_PreserveTreePrototypeLayers: 0
   m_DeringLightProbesForTrees: 1
   m_ReceiveGI: 1
-  m_ScaleInLightmap: 0.0256
+  m_ScaleInLightmap: 0.0456
   m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
   m_GroupingID: 0
   m_RenderingLayerMask: 1
@@ -3329,10 +3771,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 2.023
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3450,10 +3902,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -4.318
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3589,7 +4051,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &608809733
 Transform:
@@ -3687,10 +4149,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -4.52
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3872,10 +4344,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 10.896
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3966,10 +4448,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -4.318
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4070,10 +4562,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -2.654
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4164,10 +4666,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 4.438
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4340,10 +4852,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 4.493
       objectReference: {fileID: 0}
+    - target: {fileID: -2553022460338715887, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -1171665490314829066, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ff65837b448741a4e858ef96e2c1523e,
         type: 3}
       propertyPath: m_Name
       value: StairsMS1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523772855540137367, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4461,10 +4998,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -9.334
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4675,10 +5222,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 9.069
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4769,10 +5326,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -5.604
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5204,6 +5771,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rock (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 341f4a1a9c7ece04496c91019799fb24,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5485,10 +6057,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 6.945
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5571,6 +6153,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 1f40390a6cff70848980ef3fc1073232,
         type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1f40390a6cff70848980ef3fc1073232,
+        type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: e05b0eadce5cfd245981462bbd85fb15, type: 2}
@@ -5578,6 +6165,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: bridge
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1f40390a6cff70848980ef3fc1073232,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5666,10 +6258,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 4.743
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5979,10 +6581,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -10.084
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6152,10 +6764,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -8.774
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6279,10 +6901,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -4.318
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6371,10 +7003,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -7.36
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6465,10 +7107,35 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -2553022460338715887, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -1171665490314829066, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ff65837b448741a4e858ef96e2c1523e,
         type: 3}
       propertyPath: m_Name
       value: StairsMS1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523772855540137367, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6553,10 +7220,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -17.805
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6647,10 +7324,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -25.474
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6683,7 +7370,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1160234426
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6794,10 +7481,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 2.466
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7022,10 +7719,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -5.667
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7122,10 +7829,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 1.95
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7241,10 +7958,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 11.067
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7402,10 +8129,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 4.926
       objectReference: {fileID: 0}
+    - target: {fileID: -7490283881734600436, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 144631312793452356, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
         type: 3}
       propertyPath: m_Name
       value: Grave_low (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219256062554885154, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8398652746322378723, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7494,10 +8246,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -1.554
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7588,10 +8350,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -25.474
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7819,7 +8591,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1369763842
 Transform:
@@ -8062,10 +8834,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -8.489
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8156,10 +8938,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.065
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8341,10 +9133,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 235866061270668886, guid: 40cc842ce676d4a4a9f3d39302ac870b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 40cc842ce676d4a4a9f3d39302ac870b,
         type: 3}
       propertyPath: m_Name
       value: Wood house
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 40cc842ce676d4a4a9f3d39302ac870b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2576514262012706471, guid: 40cc842ce676d4a4a9f3d39302ac870b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6512520577325029409, guid: 40cc842ce676d4a4a9f3d39302ac870b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8429,10 +9241,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.9
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8769,10 +9591,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -9.334
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8967,10 +9799,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -6.605
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9140,10 +9982,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -3.596
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9305,10 +10157,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -7.874
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9399,10 +10261,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 17.805
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9532,10 +10404,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.9
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9651,7 +10533,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1713364981
 Transform:
@@ -9783,10 +10665,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -19.586
       objectReference: {fileID: 0}
+    - target: {fileID: -7490283881734600436, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 144631312793452356, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
         type: 3}
       propertyPath: m_Name
       value: Grave_low
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219256062554885154, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8398652746322378723, guid: 5f18ba39fc8249c4ab81a8c11b25ab9b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9875,10 +10782,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -16.434
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10000,10 +10917,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -12.801
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10390,10 +11317,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 9.271
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10670,6 +11607,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rock (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 341f4a1a9c7ece04496c91019799fb24,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10753,10 +11695,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -25.474
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10845,10 +11797,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 4.657
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10945,10 +11907,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -10.934
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11139,10 +12111,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 4.517
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11169,7 +12151,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1951886646
 Transform:
@@ -11293,10 +12275,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -5.266
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11385,10 +12377,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 1.417
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11413,7 +12415,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1977961040
 Transform:
@@ -11538,10 +12540,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 1.417
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11634,6 +12646,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rock
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 341f4a1a9c7ece04496c91019799fb24,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11772,10 +12789,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -2.09
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11903,10 +12930,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 13.559
       objectReference: {fileID: 0}
+    - target: {fileID: -2553022460338715887, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -1171665490314829066, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ff65837b448741a4e858ef96e2c1523e,
         type: 3}
       propertyPath: m_Name
       value: StairsMS1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523772855540137367, guid: ff65837b448741a4e858ef96e2c1523e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12018,10 +13070,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 10.63
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12139,10 +13201,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -15.002
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12338,10 +13410,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -5.125
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12438,10 +13520,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 13.573
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12532,10 +13624,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 15.215
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12577,7 +13679,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 1
+  m_RenderPostProcessing: 0
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -12673,10 +13775,20 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
         type: 3}
       propertyPath: m_Name
       value: Fence (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1caff00ab28f1534da3563496d227fcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12765,10 +13877,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 9.793
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
         type: 3}
       propertyPath: m_Name
       value: ValleyGrayCliff (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 365aadb4416ab4846aad3ec2b4483c96,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12797,7 +13919,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &553391408183557108
 MeshRenderer:
@@ -12980,7 +14102,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &4585642349497876332
 GameObject:
@@ -12998,7 +14120,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!33 &4817882995124024805
 MeshFilter:
@@ -13055,7 +14177,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!1 &6050687488671729299
 GameObject:
@@ -13073,7 +14195,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &6095792528440404888
 MeshRenderer:
@@ -13279,7 +14401,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8705994917586075846
 Transform:
