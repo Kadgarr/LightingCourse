@@ -11453,8 +11453,8 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1.8
+  m_Color: {r: 0.41960785, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Intensity: 0.8
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -11511,14 +11511,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1196884420}
-  m_LocalRotation: {x: 0.11973361, y: 0.7150506, z: -0.025353678, w: 0.68827593}
+  m_LocalRotation: {x: 0.07734562, y: 0.7151319, z: 0.020247228, w: 0.694402}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 24
-  m_LocalEulerAnglesHint: {x: 11.6, y: 93, z: 8}
+  m_LocalEulerAnglesHint: {x: 4.5, y: 92, z: 8}
 --- !u!1001 &1204298890
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20170,7 +20170,7 @@ MonoBehaviour:
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
   m_RenderPostProcessing: 1
-  m_Antialiasing: 0
+  m_Antialiasing: 1
   m_AntialiasingQuality: 2
   m_StopNaN: 0
   m_Dithering: 0
