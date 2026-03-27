@@ -98,12 +98,35 @@ MonoBehaviour:
   autoRegisterDiffusionProfiles: 0
   apvScenesData:
     serializedBounds: []
-    serializedHasVolumes: []
-    serializedProfiles: []
-    serializedBakeSettings: []
+    serializedHasVolumes:
+    - sceneGUID: b29a35c3d09765042852f82ccb1978b2
+      hasProbeVolumes: 0
+    serializedProfiles:
+    - sceneGUID: b29a35c3d09765042852f82ccb1978b2
+      profile: {fileID: 11400000, guid: 446e60138c77f3e46a45d52832728d22, type: 2}
+    serializedBakeSettings:
+    - sceneGUID: b29a35c3d09765042852f82ccb1978b2
+      settings:
+        m_Version: 1
+        dilationSettings:
+          enableDilation: 1
+          dilationDistance: 1
+          dilationValidityThreshold: 0.25
+          dilationIterations: 1
+          squaredDistWeighting: 1
+        virtualOffsetSettings:
+          useVirtualOffset: 1
+          outOfGeoOffset: 0.01
+          searchMultiplier: 0.2
+          rayOriginBias: -0.001
+          maxHitsPerRay: 10
+          collisionMask:
+            serializedVersion: 2
+            m_Bits: 4294967291
     serializedBakingSets:
     - name: Default
-      sceneGUIDs: []
+      sceneGUIDs:
+      - b29a35c3d09765042852f82ccb1978b2
       settings:
         m_Version: 1
         dilationSettings:
