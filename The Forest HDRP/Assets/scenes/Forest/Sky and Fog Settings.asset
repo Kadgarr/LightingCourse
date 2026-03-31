@@ -30,7 +30,7 @@ MonoBehaviour:
     m_Value: {r: 1, g: 1, b: 1, a: 1}
   maxFogDistance:
     m_OverrideState: 1
-    m_Value: 5000
+    m_Value: 500
   mipFogMaxMip:
     m_OverrideState: 0
     m_Value: 0.5
@@ -48,13 +48,13 @@ MonoBehaviour:
     m_Value: 200
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 130
+    m_Value: 110
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
   albedo:
     m_OverrideState: 1
-    m_Value: {r: 0.4956568, g: 0.6856422, b: 0.735849, a: 1}
+    m_Value: {r: 0.8113208, g: 0.7763936, b: 0.49291563, a: 1}
   globalLightProbeDimmer:
     m_OverrideState: 0
     m_Value: 1
@@ -120,13 +120,13 @@ MonoBehaviour:
   active: 1
   opacity:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.082
   upperHemisphereOnly:
     m_OverrideState: 0
     m_Value: 1
   layers:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
   resolution:
     m_OverrideState: 0
     m_Value: 1024
@@ -160,16 +160,16 @@ MonoBehaviour:
       m_Value: 0
     altitude:
       m_OverrideState: 1
-      m_Value: 2000
+      m_Value: 2002.55
     rotation:
-      m_OverrideState: 0
+      m_OverrideState: 1
       m_Value: 0
     tint:
       m_OverrideState: 1
       m_Value: {r: 1, g: 1, b: 1, a: 1}
     exposure:
       m_OverrideState: 1
-      m_Value: 2.43
+      m_Value: 0.63
     distortionMode:
       m_OverrideState: 1
       m_Value: 1
@@ -177,7 +177,7 @@ MonoBehaviour:
       m_OverrideState: 1
       m_Value:
         mode: 0
-        customValue: 180
+        customValue: 210
         additiveValue: 0
         multiplyValue: 1
     scrollSpeed:
@@ -223,10 +223,10 @@ MonoBehaviour:
       m_Value: 0
     altitude:
       m_OverrideState: 1
-      m_Value: 200
+      m_Value: 115.1
     rotation:
       m_OverrideState: 1
-      m_Value: 88
+      m_Value: 69
     tint:
       m_OverrideState: 0
       m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -247,7 +247,7 @@ MonoBehaviour:
       m_OverrideState: 1
       m_Value:
         mode: 0
-        customValue: 45
+        customValue: 6.8
         additiveValue: 0
         multiplyValue: 1
     flowmap:
@@ -292,7 +292,7 @@ MonoBehaviour:
     m_Value: 0
   multiplier:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 6.78
   upperHemisphereLuxValue:
     m_OverrideState: 0
     m_Value: 1
@@ -343,16 +343,16 @@ MonoBehaviour:
     m_Value: 55261.973
   aerosolDensity:
     m_OverrideState: 1
-    m_Value: 0.753
+    m_Value: 0.868
   aerosolTint:
     m_OverrideState: 1
-    m_Value: {r: 0.9717698, g: 1, b: 0.031372547, a: 1}
+    m_Value: {r: 0.87058824, g: 0.69803923, b: 0.42352942, a: 1}
   aerosolMaximumAltitude:
     m_OverrideState: 0
     m_Value: 8289.296
   aerosolAnisotropy:
     m_OverrideState: 1
-    m_Value: 0.55
+    m_Value: 0.42
   numberOfBounces:
     m_OverrideState: 0
     m_Value: 3
@@ -388,16 +388,16 @@ MonoBehaviour:
     m_Value: 1
   alphaMultiplier:
     m_OverrideState: 1
-    m_Value: 0.167
+    m_Value: 0.227
   horizonTint:
-    m_OverrideState: 0
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_OverrideState: 1
+    m_Value: {r: 0.7075472, g: 0.2563815, b: 0.0360448, a: 1}
   zenithTint:
-    m_OverrideState: 0
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_OverrideState: 1
+    m_Value: {r: 0.5909576, g: 0.8756961, b: 0.9433962, a: 1}
   horizonZenithShift:
-    m_OverrideState: 0
-    m_Value: -0.05
+    m_OverrideState: 1
+    m_Value: -0.03
   m_SkyVersion: 1
   m_ObsoleteEarthPreset:
     m_OverrideState: 0
