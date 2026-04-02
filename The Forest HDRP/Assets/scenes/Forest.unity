@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 22734.322, g: 23546.252, b: 22103.752, a: 1}
+  m_IndirectSpecularColor: {r: 22682.62, g: 23503.33, b: 22074.924, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -142,6 +142,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: taro Variant (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
       propertyPath: m_RootOrder
@@ -211,6 +216,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -496,9 +506,41 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1090790743}
     m_Modifications:
+    - target: {fileID: 1029084723391398, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1050480095668532, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132397595613456, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1297598304748994, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1548825952255860, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1658539719680826, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1727363918254058, guid: 75926c410139f5942a944ac8121a7859, type: 3}
       propertyPath: m_Name
       value: Rock_31_B (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727363918254058, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1867641873463406, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4437255561899012, guid: 75926c410139f5942a944ac8121a7859, type: 3}
       propertyPath: m_RootOrder
@@ -561,6 +603,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -632,6 +679,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -645,9 +697,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -714,6 +774,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -785,6 +850,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -810,10 +880,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 517173457237540078, guid: 2caccc2507c55534f92fc2d452dcbb1f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2743080256876947036, guid: 2caccc2507c55534f92fc2d452dcbb1f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8529160134606470110, guid: 2caccc2507c55534f92fc2d452dcbb1f,
         type: 3}
       propertyPath: m_Name
       value: snakeforsketchfab Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8529160134606470110, guid: 2caccc2507c55534f92fc2d452dcbb1f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9013525154987532644, guid: 2caccc2507c55534f92fc2d452dcbb1f,
         type: 3}
@@ -973,6 +1058,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_01_low (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 9142345054972345172, guid: d7b64223dee95af4790fbcf14bf646f5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -998,9 +1088,41 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1090790743}
     m_Modifications:
+    - target: {fileID: 1029084723391398, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1050480095668532, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132397595613456, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1297598304748994, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1548825952255860, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1658539719680826, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1727363918254058, guid: 75926c410139f5942a944ac8121a7859, type: 3}
       propertyPath: m_Name
       value: Rock_31_B (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727363918254058, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1867641873463406, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4437255561899012, guid: 75926c410139f5942a944ac8121a7859, type: 3}
       propertyPath: m_RootOrder
@@ -1067,6 +1189,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -1137,6 +1264,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1211,6 +1343,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: taro Variant (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
       propertyPath: m_RootOrder
@@ -1281,6 +1418,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1294,9 +1436,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -1355,9 +1525,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -1534,7 +1732,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &457666251
 Transform:
@@ -1576,9 +1774,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 480054090}
     m_Modifications:
+    - target: {fileID: 1220459654597140, guid: 2075b381986fe374eace8c512b3df68d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1248530000129448, guid: 2075b381986fe374eace8c512b3df68d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1712944491898776, guid: 2075b381986fe374eace8c512b3df68d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1776229377299498, guid: 2075b381986fe374eace8c512b3df68d, type: 3}
       propertyPath: m_Name
       value: Wood_log_M_qdtdP_Prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776229377299498, guid: 2075b381986fe374eace8c512b3df68d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1928006916330154, guid: 2075b381986fe374eace8c512b3df68d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4068539977645094, guid: 2075b381986fe374eace8c512b3df68d, type: 3}
       propertyPath: m_RootOrder
@@ -1651,7 +1869,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &480054090
 Transform:
@@ -1680,9 +1898,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -1759,7 +2005,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &495320253
 Transform:
@@ -1812,9 +2058,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -1873,9 +2147,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -1940,7 +2222,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &538592042
 Transform:
@@ -2034,6 +2316,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: taro Variant (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
       propertyPath: m_RootOrder
@@ -2104,6 +2391,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2135,9 +2427,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -2206,6 +2526,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -2276,6 +2601,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2400,6 +2730,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: rock_02_low
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981338932412994093, guid: 07db147fc533b8848aee6b79d98e8e05,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2686,10 +3021,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -249.332
       objectReference: {fileID: 0}
+    - target: {fileID: 6233570901914715925, guid: 9a7375990109031488a42688fe214dd7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6370163362848093143, guid: 9a7375990109031488a42688fe214dd7,
         type: 3}
       propertyPath: m_Name
       value: owl statue Variant (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6370163362848093143, guid: 9a7375990109031488a42688fe214dd7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2708,6 +3053,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -2778,6 +3128,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2897,7 +3252,7 @@ MonoBehaviour:
   m_InnerSpotPercent: 0
   m_SpotIESCutoffPercent: 100
   m_LightDimmer: 1
-  m_VolumetricDimmer: 2.92
+  m_VolumetricDimmer: 0
   m_LightUnit: 2
   m_FadeDistance: 10000
   m_VolumetricFadeDistance: 10000
@@ -2955,7 +3310,7 @@ MonoBehaviour:
     m_UseOverride: 0
     m_Level: 1
   m_ShadowDimmer: 1
-  m_VolumetricShadowDimmer: 1
+  m_VolumetricShadowDimmer: 0.46
   m_ShadowFadeDistance: 10000
   m_UseContactShadow:
     m_Override: 0
@@ -3013,6 +3368,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -3084,6 +3444,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3097,9 +3462,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -3276,6 +3649,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: taro Variant (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
       propertyPath: m_RootOrder
@@ -3346,6 +3724,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3359,9 +3742,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -3442,7 +3853,7 @@ MonoBehaviour:
   dithering: 0
   stopNaNs: 0
   taaSharpenStrength: 0.5
-  TAAQuality: 1
+  TAAQuality: 2
   taaHistorySharpening: 0.35
   taaAntiFlicker: 0.5
   taaMotionVectorRejection: 0
@@ -4267,6 +4678,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: taro Variant (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
       propertyPath: m_RootOrder
@@ -4337,6 +4753,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4354,6 +4775,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -4425,6 +4851,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4438,9 +4869,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -4507,6 +4946,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -4578,6 +5022,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4603,9 +5052,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -4728,11 +5185,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2000000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_Iso
-      value: 69
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 2000000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_Aperture
-      value: 5.04
+      value: 13.29
       objectReference: {fileID: 0}
     - target: {fileID: 2000000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_AllowMSAA
@@ -4748,7 +5205,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2000000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_ShutterSpeed
-      value: 0.01
+      value: 0.005
+      objectReference: {fileID: 0}
+    - target: {fileID: 2000000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
+      propertyPath: m_OcclusionCulling
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2000000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_projectionMatrixMode
@@ -4779,6 +5240,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -4850,6 +5316,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4879,6 +5350,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -4950,6 +5426,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4975,7 +5456,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1090790743
 Transform:
@@ -5036,6 +5517,22 @@ PrefabInstance:
     - target: {fileID: 1234658086611054, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
       propertyPath: m_Name
       value: GreenBush_Var01_Prefab_baked_single (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1234658086611054, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1270456658550980, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648586235875932, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1775506817189380, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4135404482184496, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
       propertyPath: m_RootOrder
@@ -5204,6 +5701,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: taro Variant (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
       propertyPath: m_RootOrder
@@ -5274,6 +5776,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5290,6 +5797,22 @@ PrefabInstance:
     - target: {fileID: 1234658086611054, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
       propertyPath: m_Name
       value: GreenBush_Var01_Prefab_baked_single
+      objectReference: {fileID: 0}
+    - target: {fileID: 1234658086611054, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1270456658550980, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648586235875932, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1775506817189380, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4135404482184496, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
       propertyPath: m_RootOrder
@@ -5354,9 +5877,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -5425,6 +5956,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -5496,6 +6032,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5521,9 +6062,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -5582,9 +6151,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -5643,9 +6240,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -5708,9 +6313,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -5791,6 +6424,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: GreenBush_Var01_Prefab_baked_single (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1234658086611054, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1270456658550980, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648586235875932, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1775506817189380, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4135404482184496, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5848,9 +6497,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 480054090}
     m_Modifications:
+    - target: {fileID: 1283064297662320, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1430500383394668, guid: 6cc1088744633994397748c6dc561009, type: 3}
       propertyPath: m_Name
       value: Wood_branch_S_pcyeE_Prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 1430500383394668, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732619201915476, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849225332646498, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1925822400394794, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4498813833031128, guid: 6cc1088744633994397748c6dc561009, type: 3}
       propertyPath: m_RootOrder
@@ -5909,9 +6578,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -5976,9 +6653,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 480054090}
     m_Modifications:
+    - target: {fileID: 1283064297662320, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1430500383394668, guid: 6cc1088744633994397748c6dc561009, type: 3}
       propertyPath: m_Name
       value: Wood_branch_S_pcyeE_Prefab (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1430500383394668, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732619201915476, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849225332646498, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1925822400394794, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4498813833031128, guid: 6cc1088744633994397748c6dc561009, type: 3}
       propertyPath: m_RootOrder
@@ -6049,9 +6746,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -6209,9 +6914,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -6430,10 +7163,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -262.275
       objectReference: {fileID: 0}
+    - target: {fileID: 6233570901914715925, guid: 9a7375990109031488a42688fe214dd7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6370163362848093143, guid: 9a7375990109031488a42688fe214dd7,
         type: 3}
       propertyPath: m_Name
       value: owl statue Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6370163362848093143, guid: 9a7375990109031488a42688fe214dd7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6454,9 +7197,41 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1090790743}
     m_Modifications:
+    - target: {fileID: 1029084723391398, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1050480095668532, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132397595613456, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1297598304748994, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1548825952255860, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1658539719680826, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1727363918254058, guid: 75926c410139f5942a944ac8121a7859, type: 3}
       propertyPath: m_Name
       value: Rock_31_B (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727363918254058, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1867641873463406, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4437255561899012, guid: 75926c410139f5942a944ac8121a7859, type: 3}
       propertyPath: m_RootOrder
@@ -6538,6 +7313,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: taro Variant (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
       propertyPath: m_RootOrder
@@ -6608,6 +7388,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6625,6 +7410,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: rock_03_low
+      objectReference: {fileID: 0}
+    - target: {fileID: 800977736765565419, guid: 69fdd8eb643d3a946abde72cc13aeb7c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1998213021180802498, guid: 69fdd8eb643d3a946abde72cc13aeb7c,
         type: 3}
@@ -6824,6 +7614,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: GreenBush_Var01_Prefab_baked_single (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1234658086611054, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1270456658550980, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648586235875932, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1775506817189380, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4135404482184496, guid: 210562eb3d6a7a343894065a3937394c, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6898,6 +7704,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: taro Variant (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
       propertyPath: m_RootOrder
@@ -6968,6 +7779,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6981,9 +7797,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -7048,9 +7892,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -7122,6 +7974,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: taro Variant (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
       propertyPath: m_RootOrder
@@ -7192,6 +8049,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7217,9 +8079,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -7303,6 +8173,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: taro Variant (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
       propertyPath: m_RootOrder
@@ -7373,6 +8248,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7390,6 +8270,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -7460,6 +8345,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7640,10 +8530,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -315.482
       objectReference: {fileID: 0}
+    - target: {fileID: 6233570901914715925, guid: 9a7375990109031488a42688fe214dd7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6370163362848093143, guid: 9a7375990109031488a42688fe214dd7,
         type: 3}
       propertyPath: m_Name
       value: owl statue Variant (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6370163362848093143, guid: 9a7375990109031488a42688fe214dd7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7717,6 +8617,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: rock_01_low (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9142345054972345172, guid: d7b64223dee95af4790fbcf14bf646f5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7953,7 +8858,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1773561217
 Transform:
@@ -8016,6 +8921,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -8087,6 +8997,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8122,6 +9037,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -8193,6 +9113,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8210,6 +9135,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -8281,6 +9211,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8294,9 +9229,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -8359,6 +9302,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -8430,6 +9378,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8453,6 +9406,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -8524,6 +9482,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8543,9 +9506,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -8695,6 +9666,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_01_low
       objectReference: {fileID: 0}
+    - target: {fileID: 9142345054972345172, guid: d7b64223dee95af4790fbcf14bf646f5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8714,9 +9690,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -8779,9 +9763,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -8852,9 +9844,41 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1090790743}
     m_Modifications:
+    - target: {fileID: 1029084723391398, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1050480095668532, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132397595613456, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1297598304748994, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1548825952255860, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1658539719680826, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1727363918254058, guid: 75926c410139f5942a944ac8121a7859, type: 3}
       propertyPath: m_Name
       value: Rock_31_B
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727363918254058, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1867641873463406, guid: 75926c410139f5942a944ac8121a7859, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4437255561899012, guid: 75926c410139f5942a944ac8121a7859, type: 3}
       propertyPath: m_RootOrder
@@ -8925,9 +9949,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder
@@ -8996,6 +10028,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: taro Variant (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1211640042473868715, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1989267903747921681, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
         type: 3}
@@ -9067,6 +10104,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7880551485621679474, guid: 6d5e4f79fbaf7e44882ea00108ff4d03,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9135,10 +10177,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -231.844
       objectReference: {fileID: 0}
+    - target: {fileID: 6233570901914715925, guid: 9a7375990109031488a42688fe214dd7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6370163362848093143, guid: 9a7375990109031488a42688fe214dd7,
         type: 3}
       propertyPath: m_Name
       value: owl statue Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6370163362848093143, guid: 9a7375990109031488a42688fe214dd7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9153,9 +10205,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2110473424}
     m_Modifications:
+    - target: {fileID: 1127378312206544, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1392003570306850, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1565900605356230, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709276012427934, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1767870319545626, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_Name
       value: Rock_Granite_reFto_brighter (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1805456065903300, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957764696715394, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4831003744241788, guid: 4081bb83479ab3e419b496b879cc45d1, type: 3}
       propertyPath: m_RootOrder
@@ -9224,7 +10304,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2110473424
 Transform:
@@ -9261,9 +10341,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 480054090}
     m_Modifications:
+    - target: {fileID: 1283064297662320, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1430500383394668, guid: 6cc1088744633994397748c6dc561009, type: 3}
       propertyPath: m_Name
       value: Wood_branch_S_pcyeE_Prefab (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1430500383394668, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732619201915476, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849225332646498, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1925822400394794, guid: 6cc1088744633994397748c6dc561009, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4498813833031128, guid: 6cc1088744633994397748c6dc561009, type: 3}
       propertyPath: m_RootOrder
@@ -9340,9 +10440,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 457666251}
     m_Modifications:
+    - target: {fileID: 1299856389499826, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_Name
       value: ForestBackdrop_B_Prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302216824277722, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4040137310881316, guid: 6f1c4a61df85dcd47821dc9497adb1e6, type: 3}
       propertyPath: m_RootOrder

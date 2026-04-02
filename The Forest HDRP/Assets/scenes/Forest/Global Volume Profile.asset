@@ -37,13 +37,13 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 1.59
+    m_Value: 3.14
   directLightingStrength:
     m_OverrideState: 1
-    m_Value: 0.152
+    m_Value: 0.433
   radius:
     m_OverrideState: 1
-    m_Value: 2.8
+    m_Value: 5
   spatialBilateralAggressiveness:
     m_OverrideState: 0
     m_Value: 0.15
