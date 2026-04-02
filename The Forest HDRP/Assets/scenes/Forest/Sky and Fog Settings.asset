@@ -45,7 +45,7 @@ MonoBehaviour:
     m_Value: 20
   maximumHeight:
     m_OverrideState: 1
-    m_Value: 200
+    m_Value: 90
   meanFreePath:
     m_OverrideState: 1
     m_Value: 110
@@ -54,7 +54,7 @@ MonoBehaviour:
     m_Value: 1
   albedo:
     m_OverrideState: 1
-    m_Value: {r: 0.8113208, g: 0.7763936, b: 0.49291563, a: 1}
+    m_Value: {r: 0.4192951, g: 0.72021675, b: 0.735849, a: 1}
   globalLightProbeDimmer:
     m_OverrideState: 0
     m_Value: 1
@@ -120,7 +120,7 @@ MonoBehaviour:
   active: 1
   opacity:
     m_OverrideState: 1
-    m_Value: 0.082
+    m_Value: 0.5
   upperHemisphereOnly:
     m_OverrideState: 0
     m_Value: 1
@@ -166,10 +166,10 @@ MonoBehaviour:
       m_Value: 0
     tint:
       m_OverrideState: 1
-      m_Value: {r: 1, g: 1, b: 1, a: 1}
+      m_Value: {r: 0.86226416, g: 0.96156514, b: 1, a: 1}
     exposure:
       m_OverrideState: 1
-      m_Value: 0.63
+      m_Value: 2.84
     distortionMode:
       m_OverrideState: 1
       m_Value: 1
@@ -343,22 +343,22 @@ MonoBehaviour:
     m_Value: 55261.973
   aerosolDensity:
     m_OverrideState: 1
-    m_Value: 0.868
+    m_Value: 0.2
   aerosolTint:
     m_OverrideState: 1
-    m_Value: {r: 0.87058824, g: 0.69803923, b: 0.42352942, a: 1}
+    m_Value: {r: 0.71132076, g: 0.9170087, b: 1, a: 1}
   aerosolMaximumAltitude:
     m_OverrideState: 0
     m_Value: 8289.296
   aerosolAnisotropy:
     m_OverrideState: 1
-    m_Value: 0.42
+    m_Value: 0
   numberOfBounces:
     m_OverrideState: 0
     m_Value: 3
   groundTint:
-    m_OverrideState: 0
-    m_Value: {r: 0.4, g: 0.25, b: 0.15, a: 1}
+    m_OverrideState: 1
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
   groundColorTexture:
     m_OverrideState: 0
     m_Value: {fileID: 0}
@@ -391,13 +391,13 @@ MonoBehaviour:
     m_Value: 0.227
   horizonTint:
     m_OverrideState: 1
-    m_Value: {r: 0.7075472, g: 0.2563815, b: 0.0360448, a: 1}
+    m_Value: {r: 0.28679246, g: 0.46920592, b: 0.7169812, a: 1}
   zenithTint:
     m_OverrideState: 1
     m_Value: {r: 0.5909576, g: 0.8756961, b: 0.9433962, a: 1}
   horizonZenithShift:
     m_OverrideState: 1
-    m_Value: -0.03
+    m_Value: 0.05
   m_SkyVersion: 1
   m_ObsoleteEarthPreset:
     m_OverrideState: 0

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 366.65482, g: 115.15541, b: 29.29044, a: 1}
+  m_IndirectSpecularColor: {r: 22734.322, g: 23546.252, b: 22103.752, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2423,7 +2423,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &725854214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2814,13 +2814,13 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 20000
+  m_Intensity: 30000
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -2857,13 +2857,13 @@ Light:
   m_LightShadowCasterMode: 2
   m_AreaSize: {x: 0.5, y: 0.5}
   m_BounceIntensity: 0
-  m_ColorTemperature: 4410
+  m_ColorTemperature: 7891
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
-  m_ShadowAngle: 10
+  m_ShadowAngle: 3
 --- !u!4 &783449403
 Transform:
   m_ObjectHideFlags: 0
@@ -2871,14 +2871,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 783449401}
-  m_LocalRotation: {x: 0.1352708, y: 0.23285376, z: -0.032725457, w: 0.96250194}
+  m_LocalRotation: {x: 0.5665854, y: 0.2241014, z: 0.081652164, w: 0.78872836}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 16, y: 27.2, z: 0}
+  m_LocalEulerAnglesHint: {x: 59, y: 60, z: 48}
 --- !u!114 &783449404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2891,13 +2891,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Intensity: 20000
+  m_Intensity: 30000
   m_EnableSpotReflector: 1
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0
   m_SpotIESCutoffPercent: 100
   m_LightDimmer: 1
-  m_VolumetricDimmer: 1.64
+  m_VolumetricDimmer: 2.92
   m_LightUnit: 2
   m_FadeDistance: 10000
   m_VolumetricFadeDistance: 10000
@@ -2921,12 +2921,12 @@ MonoBehaviour:
   m_AreaLightShadowCone: 120
   m_UseScreenSpaceShadows: 0
   m_InteractsWithSky: 1
-  m_AngularDiameter: 10
-  m_FlareSize: 1.75
-  m_FlareTint: {r: 0.9137255, g: 0.53333336, b: 0.15294118, a: 0}
-  m_FlareFalloff: 1.89
+  m_AngularDiameter: 3
+  m_FlareSize: 0.02
+  m_FlareTint: {r: 0.7764706, g: 0.9529412, b: 0.972549, a: 0}
+  m_FlareFalloff: 0.003
   m_SurfaceTexture: {fileID: 0}
-  m_SurfaceTint: {r: 0.8666667, g: 0.654902, b: 0.07058824, a: 0}
+  m_SurfaceTint: {r: 0.8784314, g: 0.78039217, b: 0.5176471, a: 0}
   m_Distance: 1.5e+11
   m_UseRayTracedShadows: 0
   m_NumRayTracingSamples: 4
@@ -2953,9 +2953,9 @@ MonoBehaviour:
   m_ShadowResolution:
     m_Override: 512
     m_UseOverride: 0
-    m_Level: 0
+    m_Level: 1
   m_ShadowDimmer: 1
-  m_VolumetricShadowDimmer: 0.707
+  m_VolumetricShadowDimmer: 1
   m_ShadowFadeDistance: 10000
   m_UseContactShadow:
     m_Override: 0
