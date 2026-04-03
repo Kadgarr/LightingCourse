@@ -15,13 +15,13 @@ MonoBehaviour:
   active: 1
   rotation:
     m_OverrideState: 1
-    m_Value: 160
+    m_Value: 145
   skyIntensityMode:
     m_OverrideState: 1
     m_Value: 0
   exposure:
     m_OverrideState: 1
-    m_Value: 14.2
+    m_Value: 6.62
   multiplier:
     m_OverrideState: 0
     m_Value: 1
@@ -169,7 +169,7 @@ MonoBehaviour:
     m_Value: 90
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 3800
+    m_Value: 3809.81
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
@@ -177,11 +177,11 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: {r: 0.93855464, g: 0.9790295, b: 0.9811321, a: 1}
   globalLightProbeDimmer:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   depthExtent:
     m_OverrideState: 1
-    m_Value: 64
+    m_Value: 69
   denoisingMode:
     m_OverrideState: 1
     m_Value: 2
@@ -239,7 +239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e88178bb13f64a54f90d6cd6ef7aa9a1, type: 3}
   m_Name: CloudLayer
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   opacity:
     m_OverrideState: 1
     m_Value: 0.5
@@ -282,16 +282,16 @@ MonoBehaviour:
       m_Value: 0
     altitude:
       m_OverrideState: 1
-      m_Value: 2002.55
+      m_Value: 3000
     rotation:
       m_OverrideState: 1
       m_Value: 0
     tint:
       m_OverrideState: 1
-      m_Value: {r: 0.86226416, g: 0.96156514, b: 1, a: 1}
+      m_Value: {r: 1, g: 1, b: 1, a: 1}
     exposure:
       m_OverrideState: 1
-      m_Value: 2.84
+      m_Value: 20
     distortionMode:
       m_OverrideState: 1
       m_Value: 1
@@ -299,7 +299,7 @@ MonoBehaviour:
       m_OverrideState: 1
       m_Value:
         mode: 0
-        customValue: 210
+        customValue: 184
         additiveValue: 0
         multiplyValue: 1
     scrollSpeed:
@@ -551,7 +551,7 @@ MonoBehaviour:
     m_Value: 0
   windSpeed:
     m_OverrideState: 1
-    m_Value: 7.84
+    m_Value: 0
   fogType:
     m_OverrideState: 1
     m_Value: 0
